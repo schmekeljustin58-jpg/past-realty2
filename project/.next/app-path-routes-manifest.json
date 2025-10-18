@@ -1,0 +1,10 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/impressum/page": "/impressum",
+  "/kontakt/page": "/kontakt",
+  "/immobilien/page": "/immobilien",
+  "/services/immobilien-verkaufen/page": "/services/immobilien-verkaufen",
+  "/services/immobilien-kaufen/page": "/services/immobilien-kaufen",
+  "/immobilien/[slug]/page": "/immobilien/[slug]"
+}

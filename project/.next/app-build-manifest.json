@@ -1,0 +1,76 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/chunks/app/_not-found-2efc5e894a176160.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/css/1b30b36312267104.css",
+      "static/chunks/app/layout-04ad1c61076665a7.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/chunks/11-14e56429198a12ad.js",
+      "static/chunks/app/page-9a54907ed03e68c0.js"
+    ],
+    "/impressum/page": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/chunks/11-14e56429198a12ad.js",
+      "static/chunks/app/impressum/page-287db40da0b90f3f.js"
+    ],
+    "/kontakt/page": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/chunks/11-14e56429198a12ad.js",
+      "static/chunks/671-97623514f8e4a1d0.js",
+      "static/chunks/app/kontakt/page-c7f1e3c8cc64128b.js"
+    ],
+    "/immobilien/page": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/chunks/11-14e56429198a12ad.js",
+      "static/chunks/app/immobilien/page-743b936b61a5e7a8.js"
+    ],
+    "/services/immobilien-verkaufen/page": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/chunks/11-14e56429198a12ad.js",
+      "static/chunks/app/services/immobilien-verkaufen/page-8b2cdefaf7681164.js"
+    ],
+    "/services/immobilien-kaufen/page": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/chunks/11-14e56429198a12ad.js",
+      "static/chunks/app/services/immobilien-kaufen/page-ea0335924ec9183b.js"
+    ],
+    "/immobilien/[slug]/page": [
+      "static/chunks/webpack-8a9468e2e8922ee1.js",
+      "static/chunks/fd9d1056-f908ba777484aaed.js",
+      "static/chunks/864-2704b00ee8e67b95.js",
+      "static/chunks/main-app-90863e3bd1f6fd33.js",
+      "static/chunks/11-14e56429198a12ad.js",
+      "static/chunks/app/immobilien/[slug]/page-9f251609630ff128.js"
+    ]
+  }
+}

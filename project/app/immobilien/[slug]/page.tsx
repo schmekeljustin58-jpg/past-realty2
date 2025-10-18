@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     .from("properties_full")
     .select("title")
     .eq("slug", params.slug)
-    .single();
+    .maybeSingle();
 
   return {
     title: property ? `${property.title} – PAST + REALTY` : "Immobilie – PAST + REALTY",
@@ -33,7 +33,7 @@ export default async function PropertyDetail({ params }: { params: { slug: strin
     .from("properties_full")
     .select("*")
     .eq("slug", params.slug)
-    .single();
+    .maybeSingle();
 
   if (error || !property) {
     return (

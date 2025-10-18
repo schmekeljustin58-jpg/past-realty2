@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "functions": {
+    "/immobilien": {},
+    "/immobilien/[slug]": {},
+    "/services/immobilien-kaufen": {},
+    "/services/immobilien-verkaufen": {}
+  }
+}
